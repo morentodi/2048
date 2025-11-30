@@ -4,4 +4,5 @@ Gunakan WASD untuk menggerakan:
  - A: Kiri
  - S: Bawah
  - D: Kanan
+
 Gabungin angka yang sama sampai dapat 2048
